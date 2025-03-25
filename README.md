@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi!
+Sometimes coding useful tools for fun
+everything is opensourced
 
 <!--
 **dx9g/dx9g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
